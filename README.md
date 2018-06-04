@@ -1,20 +1,20 @@
 # An Introduction to R
 
-These tutorials are designed to prepare students for the R-intensive lab assignments used in [**GEOSCIENCE 541: Paleobiology**](https://github.com/aazaff/teachPaleobiology/blob/master/README.md) at the University of Wisconsin - Madison. The repository was created and is maintained by Andrew A. Zaffos. 
+These tutorials are designed to prepare students for the R-intensive lab assignments used in [**GEOSCIENCE 541: Paleobiology**](https://github.com/naheim/teachPaleobiology/blob/master/README.md) at the University of Wisconsin - Madison. The repository was created and is maintained by Andrew A. Zaffos. 
 
-Importantly, these tutorials largely focus on the core programming and computer science principles underlying the R language, and do and do not focus on data analysis (i.e., statistics). Although basic statistical concepts are introduced in the [expertConcepts](https://github.com/aazaff/startLearn.R/blob/master/expertConcepts.md) tutorial, the majority of data analysis principles are instead presented throughout the course in other lab assignments.  
+Importantly, these tutorials largely focus on the core programming and computer science principles underlying the R language, and do and do not focus on data analysis (i.e., statistics). Although basic statistical concepts are introduced in the [expertConcepts](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md) tutorial, the majority of data analysis principles are instead presented throughout the course in other lab assignments.  
 
 ## Table of Contents
 
 + [How to install R](#how-to-install-r)
-+ [Beginner Concepts](https://github.com/aazaff/startLearn.R/blob/master/beginnerConcepts.md)
-+ [Beginner Test](https://github.com/aazaff/startLearn.R/blob/master/beginnerTest.md)
-+ [Intermediate Concepts](https://github.com/aazaff/startLearn.R/blob/master/intermediateConcepts.md)
-+ [Intermediate Test](https://github.com/aazaff/startLearn.R/blob/master/intermediateTest.md)
-+ [Advanced Concepts](https://github.com/aazaff/startLearn.R/blob/master/advancedConcepts.md)
-+ [Advanced Test](https://github.com/aazaff/startLearn.R/blob/master/advancedTest.md)
-+ [Expert Concepts](https://github.com/aazaff/startLearn.R/blob/master/expertConcepts.md)
-+ [Expert Test](https://github.com/aazaff/startLearn.R/blob/master/expertTest.md)
++ [Beginner Concepts](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md)
++ [Beginner Test](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md)
++ [Intermediate Concepts](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md)
++ [Intermediate Test](https://github.com/naheim/startLearn.R/blob/master/intermediateTest.md)
++ [Advanced Concepts](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md)
++ [Advanced Test](https://github.com/naheim/startLearn.R/blob/master/advancedTest.md)
++ [Expert Concepts](https://github.com/naheim/startLearn.R/blob/master/expertConcepts.md)
++ [Expert Test](https://github.com/naheim/startLearn.R/blob/master/expertTest.md)
 + [Other R Tutorials and Resources](#other-r-tutorials)
 + [Acknowledgements](acknowledgements)
 

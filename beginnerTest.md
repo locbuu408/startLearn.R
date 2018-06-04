@@ -1,6 +1,6 @@
 # Introduction
 
-The following are a set of self-test questions designed to complement the [beginnerConcepts](https://github.com/aazaff/startLearn.R/blob/master/beginnerConcepts.md) tutorial. These exercises are only meant to be attempted **after** you have finished the beginnerConcepts tutorial.
+The following are a set of self-test questions designed to complement the [beginnerConcepts](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) tutorial. These exercises are only meant to be attempted **after** you have finished the beginnerConcepts tutorial.
 
 ## Loading in Data
 

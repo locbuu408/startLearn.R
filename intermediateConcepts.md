@@ -1,8 +1,8 @@
 # Intermediate Concepts
 
-This section covers intermediate R concepts, and is meant to be read through after completeing the [beginnerConcepts](https://github.com/aazaff/startLearn.R/blob/master/beginnerConcepts.md) tutorial and the [beginnerTest](https://github.com/aazaff/startLearn.R/blob/master/beginnerTest.md) exercise.
+This section covers intermediate R concepts, and is meant to be read through after completeing the [beginnerConcepts](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) tutorial and the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercise.
 
-If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you must do the [intermediateTest](https://github.com/aazaff/startLearn.R/blob/master/intermediateTest.md) exercises and hand in your answers at the start of the next lab period.
+If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you must do the [intermediateTest](https://github.com/naheim/startLearn.R/blob/master/intermediateTest.md) exercises and hand in your answers at the start of the next lab period.
 
 ## Table of Contents
 
@@ -200,7 +200,7 @@ Functionals | Accepted Object | Returned Object | Example Formula
 ````sapply( )```` | Vector or List | Vector | sapply(object, function)
 ````lapply( )```` | Vector or List | List | lapply(object, function)
 
-You will learn more about using **functionals** in concert with more complex functions in the [advancedConcepts.R]() tutorial. In the mean time, here are some useful [functions](https://github.com/aazaff/startLearn.R/blob/master/summaryFunctions.md) that go well with these three basic functionals.
+You will learn more about using **functionals** in concert with more complex functions in the [advancedConcepts.R]() tutorial. In the mean time, here are some useful [functions](https://github.com/naheim/startLearn.R/blob/master/summaryFunctions.md) that go well with these three basic functionals.
 
 ## Direct subsetting with functionals
 
@@ -258,4 +258,4 @@ Although this might seem like a trivial improvement at the moment, don't forget 
 
 Automating boring and repetitive tasks is the whole reason that we invented computers in the first place! If it seems like an operation will take an inordinate amount of code, consider taking a break and formulating a more elegant solution. I assure you, one exists.
 
-Don't worry, we will cover automatic repetition (iterating) in the [advancedConcepts](https://github.com/aazaff/startLearn.R/blob/master/advancedConcepts.md) tutorial.
+Don't worry, we will cover automatic repetition (iterating) in the [advancedConcepts](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md) tutorial.

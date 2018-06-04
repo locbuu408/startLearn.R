@@ -2,7 +2,7 @@
 
 Expert is an exaggeration. Becoming an expert in R will take a lot more work than a single online tutorial - no matter how awesome it is. Happily, you now probably know more than a lot of people who call themselves experts in R, so there is that.
 
-If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you *must* do the [expertTest](https://github.com/aazaff/startLearn.R/blob/master/expertTest.md) exercise and hand in your answers at the start of the next lab period.
+If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you *must* do the [expertTest](https://github.com/naheim/startLearn.R/blob/master/expertTest.md) exercise and hand in your answers at the start of the next lab period.
 
 ## Table of Contents
 

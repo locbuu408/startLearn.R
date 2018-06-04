@@ -1,6 +1,6 @@
 # Introduction
 
-The following are a set of self-test questions designed to complement the [intermediate Concepts](https://github.com/aazaff/startLearn.R/blob/master/intermediateConcepts.md) tutorial. Note that there is also some carry over of concepts from the [basicConcepts](https://github.com/aazaff/startLearn.R/blob/master/beginnerConcepts.md) tutorial.
+The following are a set of self-test questions designed to complement the [intermediate Concepts](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md) tutorial. Note that there is also some carry over of concepts from the [basicConcepts](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) tutorial.
 
 ## A logical matrix
 
