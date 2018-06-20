@@ -2,7 +2,7 @@
 
 This section covers the most fundamental concepts of using R. Intermediate concepts are covered in [intermediateConcepts](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md) and advanced concepts are covered in [advancedConcepts](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md). Use the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercises to test your mastery of the concepts introduced in this tutorial.
 
-If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you *must* do the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercise and hand in your answers at the start of the next lab period.
+Please complete the the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercise and upload your answers as a markdown file to your SEYI Repository.
 
 ## Table of Contents
 
