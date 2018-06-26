@@ -2,6 +2,10 @@
 
 This section covers the most fundamental concepts of using R. Intermediate concepts are covered in [intermediateConcepts](intermediateConcepts.md) and advanced concepts are covered in [advancedConcepts](advancedConcepts.md). Use the [beginnerTest](beginnerTest.md) exercises to test your mastery of the concepts introduced in this tutorial. The '*test*' is not meant to provide a grade, but is a way for you and me to see how well you understand how to use R. If you're having trouble at any point, ask for help from one of the other interns or ask. Being efficient with R will really crucial this summer during the internship.
 
+<<<<<<< HEAD
+=======
+Please complete the the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercise and upload your answers as a markdown file to your SEYI Repository.
+>>>>>>> 8af31344bcf5d8482afd2bbf93006a675e3bd4a0
 
 ## Table of Contents
 
