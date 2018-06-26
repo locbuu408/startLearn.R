@@ -1,6 +1,6 @@
 # Key to Intermediate Test
 
-Note that these are my asnwers, in many cases there may be more than one way to correctly performa in operation in R.
+Note that these are my asnwers, in many cases there may be more than one way to correctly performa in operation in R. What is important isn't that you used the exact same code, but that you produce the same outputs.
 
 #### Section 1 Questions
 <span>1.</span> What does the ````REPLACE=```` argument of the ````sample( )```` function do?

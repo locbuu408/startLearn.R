@@ -1,6 +1,6 @@
 # Advanced Concepts
 
-This section covers advanced R concepts, and is meant to be read through after completeing the previous tutorials and exercises in this [repository](https://github.com/naheim/startLearn.R/blob/master/README.md). Attempt the [advancedTest](https://github.com/naheim/startLearn.R/blob/master/advancedTest.md) after you are finished reading through this tutorial.
+This section covers advanced R concepts, and is meant to be read through after completeing the previous tutorials and exercises in this [repository](README.md). Attempt the [advancedTest](https://github.com/naheim/startLearn.R/blob/master/advancedTest.md) after you are finished reading through this tutorial. The '*test*' is not meant to provide a grade, but is a way for you and me to see how well you understand how to use R. If you're having trouble at any point, ask for help from one of the other interns or ask. Being efficient and confident with R will really crucial this summer during the internship.
 
 ## Table of Contents
 

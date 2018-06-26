@@ -29,7 +29,7 @@ Possible answers to the questions in the [beginnerTest](), [intermediateTest](),
 # You can use various versions of the as( ) function
 > NewMatrix<-as(trees,"matrix")
 > NewMatrix<-as.matrix(trees)
-> NewMatrix<-data.matrix(trees)\
+> NewMatrix<-data.matrix(trees)
 
 # Or you could create a new matrix/array
 > NewMatrix<-matrix(c(trees[,"Girth"],trees[,"Height"],"trees[,"Volume"]),nrow=nrow(trees),ncol=ncol(trees))

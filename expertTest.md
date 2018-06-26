@@ -15,3 +15,5 @@ Load in the ````precip```` dataset.
 4. Write a function that tests, based on the means of each distribution, whether it is likely that ````RandomNormal```` and ````precip```` were drawn from the same underlying distribution.
 
 5. Create a ````density( )```` plot of ````precip```` and ````RandomNormal````. Is the test you performed above (question 4) a good or bad indicator of whether the two distributions are identical? Why or why not?
+
+### When you're done take a look at the [key](expertAnswers.md)

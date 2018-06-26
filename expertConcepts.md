@@ -1,8 +1,6 @@
 # Expert Concepts
 
-Expert is an exaggeration. Becoming an expert in R will take a lot more work than a single online tutorial - no matter how awesome it is. Happily, you now probably know more than a lot of people who call themselves experts in R, so there is that.
-
-If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you *must* do the [expertTest](https://github.com/naheim/startLearn.R/blob/master/expertTest.md) exercise and hand in your answers at the start of the next lab period.
+Expert is an exaggeration. Becoming an expert in R will take a lot more work than a single online tutorial - no matter how awesome it is. Happily, you now probably know more than a lot of people who call themselves experts in R, so there is that. Use the [expertTest](expertTest) exercises to test your mastery of the concepts introduced in this tutorial. The '*test*' is not meant to provide a grade, but is a way for you and me to see how well you understand how to use R. If you're having trouble at any point, ask for help from one of the other interns or ask. Being efficient and confident with R will really crucial this summer during the internship.
 
 ## Table of Contents
 
