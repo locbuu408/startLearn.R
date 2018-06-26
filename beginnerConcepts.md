@@ -1,6 +1,6 @@
 # Beginner Concepts
 
-This section covers the most fundamental concepts of using R. Intermediate concepts are covered in [intermediateConcepts](https://github.com/naheim/startLearn.R/blob/master/intermediateConcepts.md) and advanced concepts are covered in [advancedConcepts](https://github.com/naheim/startLearn.R/blob/master/advancedConcepts.md). Use the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercises to test your mastery of the concepts introduced in this tutorial. The '*test*' is not meant to provide a grade, but is a way for you and me to see how well you understand how to use R. If you're having trouble at any point, ask for help from one of the other interns or ask. Being efficient with R will really crucial this summer during the internship.
+This section covers the most fundamental concepts of using R. Intermediate concepts are covered in [intermediateConcepts](intermediateConcepts.md) and advanced concepts are covered in [advancedConcepts](advancedConcepts.md). Use the [beginnerTest](beginnerTest.md) exercises to test your mastery of the concepts introduced in this tutorial. The '*test*' is not meant to provide a grade, but is a way for you and me to see how well you understand how to use R. If you're having trouble at any point, ask for help from one of the other interns or ask. Being efficient with R will really crucial this summer during the internship.
 
 
 ## Table of Contents

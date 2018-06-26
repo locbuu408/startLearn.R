@@ -1,8 +1,6 @@
 # Intermediate Concepts
 
-This section covers intermediate R concepts, and is meant to be read through after completeing the [beginnerConcepts](https://github.com/naheim/startLearn.R/blob/master/beginnerConcepts.md) tutorial and the [beginnerTest](https://github.com/naheim/startLearn.R/blob/master/beginnerTest.md) exercise.
-
-If you are working through this tutorial as part of the Geoscience 541: Paleobiology course, you must do the [intermediateTest](https://github.com/naheim/startLearn.R/blob/master/intermediateTest.md) exercises and hand in your answers at the start of the next lab period.
+This section covers intermediate R concepts, and is meant to be read through after completeing the [beginnerConcepts](beginnerConcepts.md) tutorial and the [beginnerTest](beginnerTest.md) exercise. Use the [intermediateTest](intermediateTest.md) exercises to test your mastery of the concepts introduced in this tutorial. The '*test*' is not meant to provide a grade, but is a way for you and me to see how well you understand how to use R. If you're having trouble at any point, ask for help from one of the other interns or ask. Being efficient with R will really crucial this summer during the internship.
 
 ## Table of Contents
 
@@ -151,7 +149,7 @@ Let's say that we recently learned that because of an error in the original stud
 What if we are only concerned with years where there were more than 118,000 phones worldwide? Logically, the first step would be to find the total number (sum) of phones for each year (row). 
 
 ````R
-# Reload the data
+# Reload the data so we replaced some of the orginal data with the last command
 > data(WorldPhones)
 
 # Find the sum of the WorldPhones matrix.

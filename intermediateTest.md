@@ -31,7 +31,7 @@ We are going to make our own dataset for this exercise using random data. Normal
 ````
 
 #### Section 1 Questions
-1. What does the ````REPLACE=```` argument of the ````sample( )```` function do?
+1. What does the ````REPLACE=```` argument of the ````sample( )```` function do? You may want to look at the help page using ``?sample``.
 
 2. Using````as(MyMatrix,"numeric")```` will not convert ````MyMatrix```` to numeric data! Can you think of a property of logicals that you can use to convert the logicals to 0's and 1's other than the ````as( )```` function?
 
